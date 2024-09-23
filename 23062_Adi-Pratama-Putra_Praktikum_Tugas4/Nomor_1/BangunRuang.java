@@ -28,4 +28,4 @@ public class BangunRuang {
     }
     
 }
-// TERIMA KASIH - THANK YOU//
+// TERIMA KASIH - THANK YOU //
