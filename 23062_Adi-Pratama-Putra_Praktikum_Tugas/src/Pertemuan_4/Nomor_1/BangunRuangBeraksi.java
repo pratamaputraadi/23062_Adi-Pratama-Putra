@@ -6,7 +6,7 @@ package Pertemuan_4.Nomor_1;
 
 /**
  * LATIHAN NOMOR 1
- * PERTEMUAN 1 - PEMROGRAMAN BERORIENTASI OBJEK
+ * PERTEMUAN 4 - PEMROGRAMAN BERORIENTASI OBJEK
  * @author Adi Pratama Putra
  */
 
