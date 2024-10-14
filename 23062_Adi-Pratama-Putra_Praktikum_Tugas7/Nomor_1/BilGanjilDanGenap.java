@@ -27,10 +27,11 @@ public class BilGanjilDanGenap {
         else {
         System.out.print("\n" + g + " Merupakan Bilangan GENAP");  
         }
-        
-        System.out.print("\n\n");
+
         } 
-    }
+    
+     System.out.print("\n");   
+     }
 }
 
 // TERIMA KASIH - THANK YOU //
