@@ -20,7 +20,7 @@ import java.io.IOException;
 public class PenentuJumlahHari extends javax.swing.JFrame {
     
     public PenentuJumlahHari() {
-        initComponents();
+        initComponents(); 
     }
     
     @SuppressWarnings("unchecked")
