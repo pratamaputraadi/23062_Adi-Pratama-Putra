@@ -299,12 +299,12 @@ public class IndeksPrestasiKumulatif extends javax.swing.JFrame {
     private void HapusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HapusActionPerformed
         int selectedRow = Tabel.getSelectedRow();
     if (selectedRow != -1) {
-        // Menghapus baris yang dipilih
+        // MENGHAPUS BARIS YANG DIPILIH
         DefaultTableModel model = (DefaultTableModel) Tabel.getModel();
         model.removeRow(selectedRow);
     } else {
-        // Menampilkan pesan jika tidak ada baris yang dipilih
-        JOptionPane.showMessageDialog(this, "Pilih baris yang akan dihapus!");
+        // PERINGATAN JIKA TIDAK ADA BARIS YANG DIPILIH
+        JOptionPane.showMessageDialog(this, "SILAHKAN PILIH BARIS YANG INGIN DIHAPUS!");
     
     }//GEN-LAST:event_HapusActionPerformed
 }
